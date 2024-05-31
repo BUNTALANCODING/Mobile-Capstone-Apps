@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp">
+
+    <com.sinaseyfi.advancedcardview.AdvancedCardView
+        android:id="@+id/cardView3"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        app:cornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shadow1_Outer_Blur="3dp"
+        app:shadow1_Outer_Color="#000000"
+        app:shadow_Outer_Area="8dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv_item_home"
+                android:layout_width="360dp"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.478"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/makanan1" />
+
+            <ImageView
+                android:id="@+id/iv_bg_home"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_rounded_5"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_name_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:fontFamily="@font/font_1_bold"
+                android:text="@string/txt_image_home"
+                android:textAlignment="textStart"
+                android:textColor="@color/white"
+                app:layout_constraintBottom_toBottomOf="@+id/iv_bg_home"
+                app:layout_constraintEnd_toEndOf="@+id/iv_bg_home"
+                app:layout_constraintHorizontal_bias="0.032"
+                app:layout_constraintStart_toStartOf="@+id/iv_bg_home"
+                app:layout_constraintTop_toTopOf="@+id/iv_bg_home" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.sinaseyfi.advancedcardview.AdvancedCardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CapstoneApp</string>
+
+    <string name="txt_welcome_title">WELCOME</string>
+    <string name="txt_welcome_description">Welcome to Smart Food Finder Apps! Find delicious food and information on your favorite foods easily here.</string>
+    <string name="txt_welcome_button">Next</string>
+
+    <string name="txt_home">Home</string>
+    <string name="hint_find_home">Find your favorite food ?</string>
+    <string name="txt_image_home">Name Food</string>
+    <string name="txt_detail_home">Article</string>
+
+    <string name="txt_fav">History</string>
+    <string name="txt_cam">Camera</string>
+
+    <string name="txt_shop">Store</string>
+    <string name="hint_shop_find">Find food store?</string>
+    <string name="txt_item_shop">Name Store</string>
+    <string name="txt_item_shop_1">Location Store</string>
+    <string name="txt_item_shop_2">Type Food</string>
+    <string name="txt_detail_shop">Detail Store</string>
+    <string name="txt_detail_shop_1">Menu Store :</string>
+    <string name="txt_detail_shop_2">Rp. Price</string>
+
+
+
+
+
+
+
+
+    <string name="txt_process_replace">Replace</string>
+    <string name="txt_process_button">Process Image</string>
+    <string name="txt_process_dialog">Choose your type of food!</string>
+    <string name="txt_process_dialog_change">Click yes if you want to raplace image!</string>
+    <string name="txt_process_button_dialog_1">Jajanan Pasar</string>
+    <string name="txt_process_button_dialog_2">Makanan Tradisional</string>
+    <string name="txt_process_button_dialog_3">Yes</string>
+    <string name="txt_process_button_dialog_4">No</string>
+
+
+
+
+    <string name="txt_result_namefood">Name Food</string>
+    <string name="txt_result_descriptionfood">Description Food</string>
+
+    <string name="txt_result_description_exmpl">Lorem ipsum dolor sit amet consectetur. Ut penatibus nam vestibulum turpis dui tortor porta. Euismod cursus sodales egestas enim risus sit tincidunt diam mi. Odio molestie sagittis ultrices amet consectetur. Turpis lacus et accumsan senectus eu massa quis placerat.Lorem ipsum dolor sit amet consectetur. Ut penatibus nam vestibulum turpis dui tortor porta. Euismod cursus sodales egestas enim risus sit tincidunt diam mi. Odio molestie sagittis ultrices amet consectetur. Turpis lacus et accumsan senectus eu massa quis placerat.Lorem ipsum dolor sit amet consectetur. Ut penatibus nam vestibulum turpis dui tortor porta. Euismod cursus sodales egestas enim risus sit tincidunt diam mi. Odio molestie sagittis ultrices amet consectetur. Turpis lacus et accumsan senectus eu massa quis placerat.Lorem ipsum dolor sit amet consectetur. Ut penatibus nam vestibulum turpis dui tortor porta. Euismod cursus sodales egestas enim risus sit tincidunt diam mi. Odio molestie sagittis ultrices amet consectetur. Turpis lacus et accumsan senectus eu massa quis placerat.Lorem ipsum dolor sit amet consectetur. Ut penatibus nam vestibulum turpis dui tortor porta. Euismod cursus sodales egestas enim risus sit tincidunt diam mi. Odio molestie sagittis ultrices amet consectetur. Turpis lacus et accumsan senectus eu massa quis placerat.Lorem ipsum dolor sit amet consectetur. Ut penatibus nam vestibulum turpis dui tortor porta. Euismod cursus sodales egestas enim risus sit tincidunt diam mi. Odio molestie sagittis ultrices amet consectetur. Turpis lacus et accumsan senectus eu massa quis placerat.</string>
+    <string name="txt_result_namefood_exmpl">Lorem ipsum</string>
+
+
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
